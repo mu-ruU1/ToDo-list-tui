@@ -15,10 +15,6 @@
 ## 使い方
 
 ```bash
-go mod init sample
-```
-
-```bash
 go mod tidy
 ```
 
